@@ -19,6 +19,11 @@
             "name": "bow",
             "count": 1,
             "cost": 15
+        },
+        {
+            "name": "arrow",
+            "count": 5,
+            "cost": 5
         }
     ],
     "sellList": [{
